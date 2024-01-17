@@ -1,0 +1,24 @@
+h1{
+    color: violet;
+    font-size: larger;
+    font-weight: lighter;
+    font-style: italic;
+}
+body{
+    background-color: blueviolet;
+}
+l1{
+    color: darkturquoise;
+    font-weight: bold;
+}
+p{
+    line-height: 2;
+    text-align: center;
+    color: rgb(175, 23, 57) ;
+}
+section h1 {
+    color: blue;
+}
+footer p {
+    color: black;
+}
