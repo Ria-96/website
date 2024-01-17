@@ -6,19 +6,27 @@ h1{
 }
 body{
     background-color: blueviolet;
+    /*border: 1px solid red;*/
+    margin: 50px;
 }
 l1{
     color: darkturquoise;
     font-weight: bold;
+    margin: 0;
+    line-height: 1;
 }
 p{
     line-height: 2;
     text-align: center;
     color: rgb(175, 23, 57) ;
+    margin: 15px 0;
+    
 }
 section h1 {
     color: blue;
+    margin-bottom: 20px;
 }
 footer p {
     color: black;
+    margin: 15px 0;
 }
