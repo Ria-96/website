@@ -3,23 +3,26 @@ h1{
     font-size: larger;
     font-weight: lighter;
     font-style: italic;
+    /*border-bottom: 5px solid grey;*/
 }
 body{
     background-color: blueviolet;
     /*border: 1px solid red;*/
-    margin: 50px;
+   
 }
 l1{
     color: darkturquoise;
     font-weight: bold;
     margin: 0;
     line-height: 1;
+    
 }
 p{
     line-height: 2;
     text-align: center;
     color: rgb(175, 23, 57) ;
-    margin: 15px 0;
+    box-sizing: border-box;
+    /*border: 1px solid red;*/
     
 }
 section h1 {
@@ -29,4 +32,16 @@ section h1 {
 footer p {
     color: black;
     margin: 15px 0;
+}
+header,
+section,
+footer{
+    padding: 30px;
+}
+img{ 
+    height: 300px;
+}
+.title {
+    font-size: 48px;
+    text-decoration: underline;
 }
